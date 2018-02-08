@@ -1,0 +1,7 @@
+# TODOs
+
+* TODO 下载壁纸
+
+* TODO 学习喜好
+
+* TODO 图形界面
