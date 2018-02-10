@@ -21,12 +21,14 @@ description:         Please see the README on Github at <https://github.com/biba
 
 dependencies:
 - base >= 4.7 && < 5
+- bytestring >= 0.10
+- text >= 1.2
 
 library:
   source-dirs: src
 
 executables:
-  iwallpaper-exe:
+  iwallpaper:
     main:                Main.hs
     source-dirs:         app
     ghc-options:
